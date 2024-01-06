@@ -1,5 +1,5 @@
-#Realtime-chat-app
-Realtime chat app using socket.io and vanilla JavaScript
+Realtime Chat App
+This project is a Realtime chat application built using socket.io and vanilla JavaScript.
 
-#Installation 
-After download or clone run `npm install` to install all the dependancies.
+Installation
+After downloading or cloning the repository, run npm install to install all the dependencies needed for the application to function properly.
